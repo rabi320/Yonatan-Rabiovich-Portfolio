@@ -1,3 +1,3 @@
 ## Yonatan Rabinovich Data Science Portfolio
 
-<img src="Yonatan.jpg" alt="drawing" style="width:20px;"/>
+<img src="Yonatan.jpg" width="200" height="200"/>
