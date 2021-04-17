@@ -1,2 +1,3 @@
 ## Yonatan Rabinovich Data Science Portfolio
-![](Yonatan.jpg)
+
+<img src="Yonatan.jpg" alt="drawing" style="width:20px;"/>
