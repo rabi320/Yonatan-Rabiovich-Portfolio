@@ -15,7 +15,10 @@ The Portfolio is updated on a Regular basis.
 
 This Project Predicted The NDX stocks trends with Reddit's r/WorldNews subreddit top posts using NLP methods.
 
+
 # 
+
+#
 
 <img align="left" width="250" height="150" src="https://stockprice.com/wp-content/uploads/2019/09/penny-stocks-news.jpg">**Loan**
 
