@@ -15,7 +15,7 @@ The Portfolio is updated on a Regular basis.
 
 This Project Predicted The NDX stocks trends with Reddit's r/WorldNews subreddit top posts using NLP methods including spacy, topic modeling and ML pipelines. 
 
-<a id="raw-url" href="https://raw.githubusercontent.com/rabi320/Yonatan-Rabiovich-Portfolio/r_news stock prediction.zip" download>Click to Download</a>
+<a id="raw-url" href="https://github.com/rabi320/Yonatan-Rabiovich-Portfolio/raw/main/r_news%20stock%20prediction.zip" download>Click to Download</a>
 
 
 # 
