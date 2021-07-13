@@ -26,4 +26,4 @@ This Project Predicted The NDX stocks trends with Reddit's r/WorldNews subreddit
 
 loan 
 
-![](https://nbviewer.jupyter.org/github/rabi320/project/blob/3612fc3f61befcb6d3d5083c192bee654ea46331/project/Example.ipynb)
+[Link](https://nbviewer.jupyter.org/github/rabi320/project/blob/3612fc3f61befcb6d3d5083c192bee654ea46331/project/Example.ipynb)
