@@ -24,4 +24,6 @@ This Project Predicted The NDX stocks trends with Reddit's r/WorldNews subreddit
 
 <img align="left" width="250" height="150" src="https://stockprice.com/wp-content/uploads/2019/09/penny-stocks-news.jpg">**Loan**
 
-loan
+loan 
+
+![](https://nbviewer.jupyter.org/github/rabi320/project/blob/3612fc3f61befcb6d3d5083c192bee654ea46331/project/Example.ipynb)
