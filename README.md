@@ -13,7 +13,7 @@ The Portfolio is updated on a Regular basis.
 
 <img align="left" width="250" height="150" src="https://stockprice.com/wp-content/uploads/2019/09/penny-stocks-news.jpg">**NDX Prediction Using World News**
 
-This Project Predicted The NDX stocks trends with Reddit's r/WorldNews subreddit top posts using NLP methods including spacy, topic modeling and ML pipelines.
+This Project Predicted The NDX stocks trends with Reddit's r/WorldNews top posts using NLP methods including spacy, topic modeling and ML pipelines.
 This Project Was the final assighnment in the Technion certified Data Science Program.
 
 [Watch it here!](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/0f6a6f803d09b486ff17073883f509b4bab5f8ca/NDX%20reddit%20Prediction/NASDAQ%20100%20Prediction%20with%20World%20News%20Main.ipynb)
