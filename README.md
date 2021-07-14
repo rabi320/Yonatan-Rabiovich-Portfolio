@@ -18,9 +18,6 @@ This Project Was the final assighnment in the Technion certified Data Science Pr
 
 [Watch it here!](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/0f6a6f803d09b486ff17073883f509b4bab5f8ca/NDX%20reddit%20Prediction/NASDAQ%20100%20Prediction%20with%20World%20News%20Main.ipynb)
 
-# 
-
-#
 
 <img align="left" width="250" height="150" src="https://www.mybcu.org/templates/rt_requiem/custom/images/products/page_toppers/home_equity_loan_line_credit_lynchburg_danville_buena_vista_bedford_madison_heights_virginia.png">**Home Equity Loan Defaut Prediction**
 
