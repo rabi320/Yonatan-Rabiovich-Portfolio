@@ -21,7 +21,7 @@ This Project Was the final assignment in the Technion's certified Data Science P
 
 <img align="left" width="250" height="150" src="https://www.mybcu.org/templates/rt_requiem/custom/images/products/page_toppers/home_equity_loan_line_credit_lynchburg_danville_buena_vista_bedford_madison_heights_virginia.png">**Home Equity Loan Default Prediction**
 
-This Project Predicted Default of home equity loan clients using classifiction with Ml models Dl neural networks.
+This Project Predicted Default of home equity loan clients using classifiction with ML models DL neural networks.
 The model can be used to classify potential defaulters and simplify the bank's decision making.
 
 [EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/1071b21a564cb4c3878316a83a5971a02aa95dda/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb)
