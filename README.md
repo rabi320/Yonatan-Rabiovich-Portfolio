@@ -1,10 +1,9 @@
-# Yonatan Rabinovich Data Science Portfolio
 
 <img src="Yon.jpg" width="150" height="200"/>
 
-Linkedin  - [Yonatan Rabinovich](https://www.linkedin.com/in/%D7%99%D7%95%D7%A0%D7%AA%D7%9F-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5-68a391213/)
+[Linkedin](https://www.linkedin.com/in/%D7%99%D7%95%D7%A0%D7%AA%D7%9F-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5-68a391213/)
 
-Resume - <a id="raw-url" href="https://github.com/rabi320/Yonatan-Rabiovich-Portfolio/raw/main/Yonatan%20Rabinovich%20resume.pdf">Yonatan Rabinovich Resume</a>
+<a id="raw-url" href="https://github.com/rabi320/Yonatan-Rabiovich-Portfolio/raw/main/Yonatan%20Rabinovich%20resume.pdf">Resume</a>
 ## Data Science Portfolio
 Portfolio including my data science projects for academic, self-learning and hobby purposes.
 The Portfolio is updated on a Regular basis.
