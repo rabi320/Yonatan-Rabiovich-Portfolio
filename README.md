@@ -1,6 +1,6 @@
 
 
-<img align="middle" src="Yonatan1.jpg" width="200" height="200"/>
+<img align="middle" src="Yonatan1.jpg" width="200" height="180"/>
 
 
 [Linkedin](https://www.linkedin.com/in/%D7%99%D7%95%D7%A0%D7%AA%D7%9F-%D7%A8%D7%91%D7%99%D7%A0%D7%95%D7%91%D7%99%D7%A5-68a391213/)
@@ -26,4 +26,4 @@ This project was the final assignment in the Technion's certified Data Science P
 This project predicted default of home equity loan clients using classifiction with Machine Learning models and ensembles and Deep Learning neural networks and TabNet.
 The model can be used to classify potential defaulters and simplify the bank's decision making. This model has reached 92.7% accuracy on test set and 0.82 f1 score with TabNet Classifier.
 
-[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/1071b21a564cb4c3878316a83a5971a02aa95dda/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/2836ceb8c7b8477c8bf6e7f53d0282e3b51bc022/Home%20Equity%20Loan%20Defaut%20Prediction/Prediction.ipynb)
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/1071b21a564cb4c3878316a83a5971a02aa95dda/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb), [Predictions]()
