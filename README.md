@@ -11,7 +11,7 @@ The Portfolio is updated on a Regular basis.
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://stockprice.com/wp-content/uploads/2019/09/penny-stocks-news.jpg">**NDX Prediction Using World News**
+<img align="left" width="100" height="300" src="https://stockprice.com/wp-content/uploads/2019/09/penny-stocks-news.jpg">**NDX Prediction Using World News**
 
 This project predicted The NDX stocks trends with Reddit's r/WorldNews top posts using NLP methods including spacy, topic modeling and ML pipelines.
 This project was the final assignment in the Technion's certified Data Science Program.
