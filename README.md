@@ -24,4 +24,4 @@ This project was the final assignment in the Technion's certified Data Science P
 This project predicted default of home equity loan clients using classifiction with ML models DL neural networks.
 The model can be used to classify potential defaulters and simplify the bank's decision making.
 
-[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/1071b21a564cb4c3878316a83a5971a02aa95dda/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb), [Predictions]()
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/1071b21a564cb4c3878316a83a5971a02aa95dda/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/2836ceb8c7b8477c8bf6e7f53d0282e3b51bc022/Home%20Equity%20Loan%20Defaut%20Prediction/Prediction.ipynb)
