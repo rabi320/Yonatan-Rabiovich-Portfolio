@@ -31,6 +31,6 @@ The model can be used to classify potential defaulters and simplify the bank's d
 <img align="left" width="250" height="150" src="https://www.riotinto.com/-/media/Content/Images/Products/Diamonds/RT-Argyle-Octavia.jpg?rev=f537ac42fa3c44599582327865dab723&w=1920&hash=DCFA2361F3A2F4E24D6292EFA37E6197">**Diamond Prices Regression**
 
 This project predicted The prices of Diamonds using regression with Machine Learning models and ensembles.
-The model can be used to estimate the worth of the diamond based on it's features and similar diamons recorded proces. This model has reached 0.986 adjusted R^2 on test set and 472 rmse with ExtraTrees Regressor. This model is deployed to a web app that takes inputs from users and estimates the diamonds price.
+The model can be used to estimate the worth of the diamond based on it's features and similar diamons recorded proces. This model has reached 0.986 adjusted R^2 on test set and 472 rmse with ExtraTrees Regressor. This model is deployed to a web app that takes inputs from users and estimates the diamond's price.
 
 [EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_Prediction.ipynb), [App](https://share.streamlit.io/rabi320/diamondapp/Diamondapp.py)
