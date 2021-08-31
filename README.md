@@ -48,7 +48,7 @@ This model reached high levels of accuracy and saved and used to predict a singl
 <img align="left" width="250" height="150" src="https://www.fortressofsolitude.co.za/wp-content/uploads/2019/05/The-15-Most-Powerful-Anime-Characters-Of-All-Time-scaled.jpg">**Anime Recommendation Engine**
 
 This project a recommedation engine is created.
-The reccomendation is based on item collaborative filltering usimg cosine similarity. A thorough EDA is created than a system is build using the mentioned methods.
-Finally an app is created showing the trends of anime recommendation of the top 10 scored bayesian average anime and item based reccomendation for an input of anime, based on the initial type of anime format that is being analyzed.
+The reccomendation is based on item collaborative filltering using cosine similarity. A thorough EDA is created and then a system is build using the aforementioned methods.
+Finally an app is created showing the trends of anime recommendation of the top 10 scored bayesian average anime and item based recommendation for an input of anime, based on the initial type of anime format that is being analyzed.
 
 [EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Recommendation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb), [App](https://share.streamlit.io/rabi320/recapp/App.py)
