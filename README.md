@@ -43,3 +43,12 @@ This model is using resnet18 pretrained model adding a final fully connected lay
 This model reached high levels of accuracy and saved and used to predict a single image.
 
 [Project](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/7ed8ac96d3c966151479ed2914eb94a9ecd90251/MaskDetection/Mask.ipynb)
+
+
+<img align="left" width="250" height="150" src="https://www.fortressofsolitude.co.za/wp-content/uploads/2019/05/The-15-Most-Powerful-Anime-Characters-Of-All-Time-scaled.jpg">**Anime Recommendation Engine**
+
+This project a recommedation engine is created.
+The reccomendation is based on item collaborative filltering usimg cosine similarity. A thorough EDA is created than a system is build using the mentioned methods.
+Finally an app is created showing the trends of anime recommendation of the top 10 scored bayesian average anime and item based reccomendation for an input of anime, based on the initial type of anime format that is being analyzed.
+
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Reccomndation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb), [App](https://share.streamlit.io/rabi320/recapp/App.py)
