@@ -35,16 +35,6 @@ The model can be used to estimate the worth of the diamond based on it's feature
 
 [EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_Prediction.ipynb), [App](https://share.streamlit.io/rabi320/diamondapp/Diamondapp.py)
 
-<img align="left" width="250" height="150" src="https://m.media-amazon.com/images/I/51NkBPTLorS._SY450_.jpg?rev=f537ac42fa3c44599582327865dab723&w=1920&hash=DCFA2361F3A2F4E24D6292EFA37E6197">**Mask Detection**
-
-This project predicted if the person in the picture is wearing a mask.
-The model can be used to detect if a person has a mask on or not.
-This model is using resnet18 pretrained model adding a final fully connected layer to predict the binary labels.
-This model reached high levels of accuracy and saved and used to predict a single image.
-
-[Project](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/7ed8ac96d3c966151479ed2914eb94a9ecd90251/MaskDetection/Mask.ipynb)
-
-
 <img align="left" width="250" height="150" src="https://www.fortressofsolitude.co.za/wp-content/uploads/2019/05/The-15-Most-Powerful-Anime-Characters-Of-All-Time-scaled.jpg">**Anime Recommendation Engine**
 
 This project a recommedation engine is created.
