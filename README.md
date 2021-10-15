@@ -33,12 +33,23 @@ The model can be used to classify potential defaulters and simplify the bank's d
 This project predicted The prices of Diamonds using regression with Machine Learning models and ensembles.
 The model can be used to estimate the worth of the diamond based on it's features and similar diamons recorded proces. This model has reached 0.986 adjusted R^2 on test set and 472 rmse with ExtraTrees Regressor. This model is deployed to a web app that takes inputs from users and estimates the diamond's price.
 
-[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_Prediction.ipynb), [App](https://share.streamlit.io/rabi320/diamondapp/Diamondapp.py)
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/56ce4fa97e22d25f0c7916606390d11af47f0087/DiamondPricesRegression/Diamond_Prediction.ipynb), app is inactive due to streamlit limitations, can be deployed upon request.
 
 <img align="left" width="250" height="150" src="https://www.fortressofsolitude.co.za/wp-content/uploads/2019/05/The-15-Most-Powerful-Anime-Characters-Of-All-Time-scaled.jpg">**Anime Recommendation Engine**
 
-This project a recommedation engine is created.
+In this project a recommedation engine is created.
 The reccomendation is based on item collaborative filltering using cosine similarity. A thorough EDA is created and then a system is build using the aforementioned methods.
 Finally an app is created showing the trends of anime recommendation of the top 10 scored bayesian average anime and item based recommendation for an input of anime, based on the initial type of anime format that is being analyzed.
 
 [EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Recommendation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb), [App](https://share.streamlit.io/rabi320/recapp/App.py)
+
+<img align="left" width="250" height="150" src="https://miro.medium.com/max/1400/1*MNj7uq7HUNGERaYgRRdZfw.jpeg">**Face Recognition**
+
+This project a face recognition 3-trait model is created.
+This model has predicted from a given 48X48 gray image the ethnicity, age group, and gender of the face given.
+The model used was resnet18 with an additional last sequential layer and has reached a 70.41% accuracy in age group, 88.86% accuracy in gender and 85.16% accuracy in ethnicity.
+the model was deployed into an app testing the vision of the user agianst the computer vision algorithm.
+
+[Face recognition implementation](https://nbviewer.org/github/rabi320/Data-Science-Projects/blob/master/Age%20recognition/3%20traits%20models.ipynb
+), [App](https://share.streamlit.io/rabi320/faceapp/FaceApp.py)
+
