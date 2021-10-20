@@ -53,3 +53,13 @@ the model was deployed into an app testing the vision of the user agianst the co
 [Face recognition implementation](https://nbviewer.org/github/rabi320/Data-Science-Projects/blob/master/Age%20recognition/3%20traits%20models.ipynb
 ), [App](https://share.streamlit.io/rabi320/faceapp/FaceApp.py)
 
+<img align="left" width="250" height="150" src="https://www.google.com/search/static/gs/animal/cover_images/m0bt9lr_cover.png">**Dog Breed Classisfication**
+
+in This project a dog breed classifier created.
+This model has predicted from a given 224X224X3 image the breed of dog out of 70 different dog races.
+The model used was resnet18 with an additional last sequential layer and has reached an overall accuracy of 95.43%.
+a web app for dog classification is created.
+
+[Dog breed](https://www.kaggle.com/yonatanrabinovich/dog-breed-classification-with-pytorch
+), [App](https://share.streamlit.io/rabi320/dogbreed/DogBreed.py)
+
