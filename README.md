@@ -45,7 +45,7 @@ Finally an app is created showing the trends of anime recommendation of the top 
 
 <img align="left" width="250" height="150" src="https://miro.medium.com/max/1400/1*MNj7uq7HUNGERaYgRRdZfw.jpeg">**Face Recognition**
 
-This project a face recognition 3-trait model is created.
+In this project a face recognition 3-trait model is created.
 This model has predicted from a given 48X48 gray image the ethnicity, age group, and gender of the face given.
 The model used was resnet18 with an additional last sequential layer and has reached a 70.41% accuracy in age group, 88.86% accuracy in gender and 85.16% accuracy in ethnicity.
 the model was deployed into an app testing the vision of the user agianst the computer vision algorithm.
@@ -55,7 +55,7 @@ the model was deployed into an app testing the vision of the user agianst the co
 
 <img align="left" width="250" height="150" src="https://www.google.com/search/static/gs/animal/cover_images/m0bt9lr_cover.png">**Dog Breed Classisfication**
 
-in This project a dog breed classifier created.
+In this project a dog breed classifier created.
 This model has predicted from a given 224X224X3 image the breed of dog out of 70 different dog races.
 The model used was resnet18 with an additional last sequential layer and has reached an overall accuracy of 95.43%.
 a web app for dog classification is created.
