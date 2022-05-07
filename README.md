@@ -51,7 +51,7 @@ The model used was resnet18 with an additional last sequential layer and has rea
 the model was deployed into an app testing the vision of the user agianst the computer vision algorithm.
 
 [Face recognition implementation](https://nbviewer.org/github/rabi320/Data-Science-Projects/blob/master/Age%20recognition/3%20traits%20models.ipynb
-), [App](https://share.streamlit.io/rabi320/faceapp/FaceApp.py)
+), app is inactive due to streamlit limitations, can be deployed upon request.
 
 <img align="left" width="250" height="150" src="https://www.google.com/search/static/gs/animal/cover_images/m0bt9lr_cover.png">**Dog Breed Classification**
 
