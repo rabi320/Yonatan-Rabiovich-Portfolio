@@ -5,7 +5,7 @@
 
 [Linkedin](https://www.linkedin.com/in/yonatan-rabinovich-68a391213/)
 
-<a id="raw-url" href="https://github.com/rabi320/Yonatan-Rabiovich-Portfolio/raw/main/Yonatan%20%20Rabinovich.pdf">Resume</a>
+<a id="raw-url" href="https://github.com/rabi320/Yonatan-Rabiovich-Portfolio/raw/main/Yonatan%20Rabinovich.pdf">Resume</a>
 ## Data Science Portfolio
 Portfolio including my data science projects for academic, self-learning and hobby purposes.
 The portfolio is updated on a regular basis.
