@@ -26,7 +26,7 @@ This project was the final assignment in the Technion's certified Data Science P
 This project predicted default of home equity loan clients using classifiction with Machine Learning models and ensembles and Deep Learning neural networks and TabNet.
 The model can be used to classify potential defaulters and simplify the bank's decision making. This model has reached 92.6% accuracy on test set and 0.82 f1 score with TabNet Classifier. This model is deployed to a web app for testing parameters and then predicting the outcome.
 
-[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/4ed8e9adf1a6c7a811354e1212ef16f12f0216cb/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/e588d411e5ff96ee2540bd9ee105ea3bbac1876b/Home%20Equity%20Loan%20Defaut%20Prediction/Prediction.ipynb)
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/4ed8e9adf1a6c7a811354e1212ef16f12f0216cb/Home%20Equity%20Loan%20Defaut%20Prediction/EDA.ipynb), [Predictions](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/e588d411e5ff96ee2540bd9ee105ea3bbac1876b/Home%20Equity%20Loan%20Defaut%20Prediction/Prediction.ipynb), app is inactive due to streamlit limitations, can be deployed upon request.
 
 <img align="left" width="250" height="150" src="https://www.riotinto.com/-/media/Content/Images/Products/Diamonds/RT-Argyle-Octavia.jpg?rev=f537ac42fa3c44599582327865dab723&w=1920&hash=DCFA2361F3A2F4E24D6292EFA37E6197">**Diamond Prices Regression**
 
@@ -41,7 +41,7 @@ In this project a recommedation engine is created.
 The reccomendation is based on item collaborative filltering using cosine similarity. A thorough EDA is created and then a system is build using the aforementioned methods.
 Finally an app is created showing the trends of anime recommendation of the top 10 scored bayesian average anime and item based recommendation for an input of anime, based on the initial type of anime format that is being analyzed.
 
-[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Recommendation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb).
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Recommendation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb), app is inactive due to streamlit limitations, can be deployed upon request.
 <img align="left" width="250" height="150" src="https://miro.medium.com/max/1400/1*MNj7uq7HUNGERaYgRRdZfw.jpeg">**Face Recognition**
 
 In this project a face recognition 3-trait model is created.
