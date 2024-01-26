@@ -41,8 +41,7 @@ In this project a recommedation engine is created.
 The reccomendation is based on item collaborative filltering using cosine similarity. A thorough EDA is created and then a system is build using the aforementioned methods.
 Finally an app is created showing the trends of anime recommendation of the top 10 scored bayesian average anime and item based recommendation for an input of anime, based on the initial type of anime format that is being analyzed.
 
-[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Recommendation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb), [App](https://share.streamlit.io/rabi320/recapp/App.py).
-
+[EDA](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20system%20-%20EDA.ipynb), [Recommendation Engine](https://nbviewer.jupyter.org/github/rabi320/Data-Science-Projects/blob/c2a8f60d3b81ee021061347012f1798df3ed2147/Anime%20Recommendation/Anime%20Recommendation%20System.ipynb).
 <img align="left" width="250" height="150" src="https://miro.medium.com/max/1400/1*MNj7uq7HUNGERaYgRRdZfw.jpeg">**Face Recognition**
 
 In this project a face recognition 3-trait model is created.
